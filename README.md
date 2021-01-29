@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 8 authentication with Bootstrap and Fortify](https://blog.jasminetracey.com/laravel-8-authentication-with-bootstrap-and-fortify)
-- [How to set up your wordpress site on dokku](https://blog.jasminetracey.com/how-to-set-up-your-wordpress-site-on-dokku)
-- [How to use jarallax parallax plugin with Nuxt.js](https://blog.jasminetracey.com/how-to-use-jarallax-parallax-plugin-with-nuxtjs)
 <!-- BLOG-POST-LIST:END -->
