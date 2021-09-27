@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding two-factor auth to Laravel 8 bootstrap livewire fortify project](https://dev.to/jasminetracey/adding-two-factor-auth-to-laravel-8-bootstrap-livewire-fortify-project-4jbh)
 - [Updating Laravel 8 User profile information using bootstrap livewire and fortify](https://dev.to/jasminetracey/updating-laravel-8-user-profile-information-using-bootstrap-livewire-and-fortify-1cdo)
 - [Laravel 8 authentication with Bootstrap and Fortify](https://dev.to/jasminetracey/laravel-8-with-bootstrap-livewire-and-fortify-5d33)
 - [How to set up your wordpress site on dokku](https://dev.to/jasminetracey/how-to-set-up-your-wordpress-site-on-dokku-24pj)
